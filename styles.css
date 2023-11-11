@@ -1,74 +1,33 @@
+/* Basic Reset */
+* { margin: 0; padding: 0; box-sizing: border-box; }
 
-body, html {
-    margin: 0;
-    padding: 0;
-    font-family: 'Arial', sans-serif;
-}
+/* Font */
+body { font-family: 'Arial', sans-serif; color: #333; line-height: 1.6; }
 
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #fff;
-    padding: 1rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
+/* Header */
+.header { background: #f8f8f8; text-align: center; padding: 40px 0; }
+.header h1 { font-size: 2.5em; margin-bottom: 10px; }
+.header p { font-size: 1.2em; color: #666; }
 
-.navbar-links ul {
-    list-style: none;
-    display: flex;
-    margin: 0;
-}
+/* Product Showcase */
+.product-showcase { padding: 50px 0; text-align: center; }
+.product-showcase img { width: 100%; max-width: 400px; margin-bottom: 20px; }
+.product-showcase h2 { font-size: 2em; margin-bottom: 10px; }
+.product-showcase p { font-size: 1.2em; color: #666; }
 
-.navbar-links li {
-    padding: 0 15px;
-}
+/* Features */
+.features { padding: 50px 20px; }
+.features h3 { font-size: 1.8em; margin-bottom: 20px; text-align: center; }
+.features ul { list-style: none; }
+.features li { font-size: 1.2em; margin-bottom: 10px; }
 
-.navbar-links a {
-    text-decoration: none;
-    color: #333;
-    font-weight: bold;
-}
+/* Testimonials */
+.testimonial { background-color: #f0f0f0; padding: 50px 20px; text-align: center; }
+.testimonial h3 { font-size: 1.8em; margin-bottom: 20px; }
+.testimonial p { font-size: 1.2em; color: #666; }
 
-.subscribe {
-    color: #007bff;
-    border: 1px solid #007bff;
-    padding: 5px 10px;
-    border-radius: 5px;
-}
-
-.hero {
-    background: url('your-image-path.jpg') no-repeat center center/cover;
-    color: #fff;
-    text-align: center;
-    padding: 100px 0;
-}
-
-.hero h1 {
-    font-size: 3rem;
-    margin-bottom: 0.5rem;
-}
-
-.hero p {
-    font-size: 1.5rem;
-}
-
-/* Add media queries for responsiveness */
-@media (max-width: 600px) {
-    .navbar-links ul {
-        flex-direction: column;
-        padding: 0;
-    }
-
-    .navbar-links li {
-        padding: 10px 0;
-    }
-
-    .hero h1 {
-        font-size: 2rem;
-    }
-
-    .hero p {
-        font-size: 1rem;
-    }
-}
+/* Contact Form */
+.contact { padding: 50px 20px; text-align: center; }
+.contact h3 { font-size: 1.8em; margin-bottom: 20px; }
+.contact form { max-width: 400px; margin: auto; }
+.contact input, .contact textarea { width: 100%; padding: 10px; margin: auto}
