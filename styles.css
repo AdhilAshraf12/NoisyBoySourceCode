@@ -2,12 +2,20 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 /* Font */
-body { font-family: 'Arial', sans-serif; color: #333; line-height: 1.6; }
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
 
 /* Header */
 .header { background: #f8f8f8; text-align: center; padding: 40px 0; }
 .header h1 { font-size: 2.5em; margin-bottom: 10px; }
 .header p { font-size: 1.2em; color: #666; }
+
+h1, h2, h3 {
+    font-weight: 700; /* This sets the font weight to bold */
+}
 
 /* Product Showcase */
 .product-showcase { padding: 50px 0; text-align: center; }
