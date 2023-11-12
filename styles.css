@@ -39,3 +39,16 @@ h1, h2, h3 {
 .contact h3 { font-size: 1.8em; margin-bottom: 20px; }
 .contact form { max-width: 400px; margin: auto; }
 .contact input, .contact textarea { width: 100%; padding: 10px; margin: auto}
+
+#three .image.fit.main {
+    background: url('../images/construction.png') no-repeat center center;
+    background-size: contain; /* or 'cover' depending on your need */
+    background-position: center 20%; /* You can use a percentage */
+}
+
+/* Section Four - Head-ache Free Takeoffs: */
+#four .image.fit.main {
+    background: url('../images/airplane.png') no-repeat center bottom;
+    background-size: contain; /* This will make sure the whole image is visible */
+}
+
