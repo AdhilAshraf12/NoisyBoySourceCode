@@ -1,3 +1,4 @@
+---
 # Noisy Boy - Mute the World
 
 Welcome to **Noisy Boy**, the innovative noise cancellation product designed to redefine your experience in noisy environments. Our mission is to provide a peaceful atmosphere in various settings, ranging from construction sites to flights and urban living spaces.
@@ -42,4 +43,13 @@ For more information or inquiries, please contact us at [info@noisyboy.com](mail
 
 ---
 
-*Join us in our journey to mute the world and redefine sustainable living!*
+*Join us in our journey to mute the world and redefine sustainable living!*               
+
+
+
+## *Team Members* 
+- **Anfaal Mahbub** - [Anfaal's GitHub Profile](https://github.com/anfaalmahbub) 
+- **Adhil Ashraf** - [Adhil's GitHub Profile](https://github.com/AdhilAshraf12)
+- **Al Farhana Siddique** - [Farhana's GitHub Profile](https://github.com/alfarhana25)
+- **Mehvish Fatima Shakeel** - [Mehvish's GitHub Profile](https://github.com/mehvishshakeel)
+- **Tahmeed Mahmud** - [Tahmeed's GitHub Profile](https://github.com/tahmeedm)
