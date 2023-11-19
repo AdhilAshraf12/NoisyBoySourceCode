@@ -49,6 +49,6 @@ h1, h2, h3 {
 /* Section Four - Head-ache Free Takeoffs: */
 #four .image.fit.main {
     background: url('../images/airplane.png') no-repeat center bottom;
-    background-size: contain; /* This will make sure the whole image is visible */
+    background-size: contain; /* This will make sure the whole image is visiblee */
 }
 
