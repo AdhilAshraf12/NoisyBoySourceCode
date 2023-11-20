@@ -2,7 +2,7 @@
 # Noisy Boy - Mute the World
 
 Welcome to **Noisy Boy**, the innovative noise cancellation product designed to redefine your experience in noisy environments. Our mission is to provide a peaceful atmosphere in various settings, ranging from construction sites to flights and urban living spaces.
-Access Live Website Here: https://noisyboy.netlify.app/
+
 
 ## Overview
 
